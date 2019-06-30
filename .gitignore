@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs/TestManager/config
+/.vs/TestManager/v16/Server/sqlite3
+/.vs/TestManager/v16
+/Server/bin/Debug/netcoreapp2.2
+/Server/obj
+/Server/Properties
+/.vs/TestManager/DesignTimeBuild
